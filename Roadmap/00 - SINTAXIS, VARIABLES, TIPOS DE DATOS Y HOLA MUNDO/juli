@@ -1,0 +1,30 @@
+//sitio web Java https://dev.java/
+
+//sintnaxis de comentario en linea
+
+/*
+*sintaxis de comentario
+*en varias
+*lineaas
+*/
+*comentario
+*en varias 
+*linesas
+/*
+public static void main(String[] args){
+string variable= ¨Hola¨;
+char letra = 'A';
+byte edad = 123;
+short alture = 123;
+int cantidad = 123456;
+long largo = 123456789L123456789;
+float flotante = 1.2345f;
+ doble = 22.2;double
+boolean boleano = true;
+
+
+Sistem.out.printin(variable + constante);
+
+              { 
+
+{
